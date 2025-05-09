@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Exploring the Cosmos",
+      "name": "Jane Doe",
+      "date": "2025-01-10",
+      "content": "This is a fascinating blog about the wonders of the cosmos.",
+      "profilePicture": "assets/profile1.jpg",
+      "blogImages": [
+        "assets/cosmos1.jpeg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "The Art of Coding",
+      "name": "John Smith",
+      "date": "2025-02-15",
+      "content": "Tips and tricks for mastering the art of programming.",
+      "profilePicture": "",
+      "blogImages": []
+    },
+    {
+      "id": "3",
+      "title": "A Feast for the Senses",
+      "name": "Epicurean Wanderer",
+      "date": "2025-03-20",
+      "content": "From bustling markets to modern kitchens, food celebrates culture, creativity, and community.\nEvery meal is a journey through rich traditions and the joy of shared moments.",
+      "profilePicture": "assets/profile2.jpeg",
+      "blogImages": [
+        "assets/dish1.jpg",
+        "assets/dish2.jpg",
+        "assets/dish3.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Digital Nomad Life",
+      "name": "Bob Hart",
+      "content": "Balancing work and travel in the modern world of digital nomadism.",
+      "profilePicture": "assets/profile3.jpeg",
+      "blogImages": [],
+      "date": "2025-04-15"
+    },
+    {
+      "title": "Nature's Beauty",
+      "name": "Alice Green",
+      "content": "Exploring the serene and peaceful aspects of nature.",
+      "profilePicture": "assets/profile4.jpeg",
+      "blogImages": [
+        "assets/nature1.jpg",
+        "assets/nature2.jpg"
+      ],
+      "date": "2025-04-16",
+      "id": "5"
+    }
+  ]
+}
